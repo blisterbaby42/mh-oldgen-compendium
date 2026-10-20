@@ -84,7 +84,9 @@
 - **Текстуры MHFU:** [MHFU-Texture-Port](https://github.com/Monkbreh/MHFU-Texture-Port) · [Nexus Mods](https://www.nexusmods.com/monsterhunterfreedomunite/mods/36)
 - **Athena ASS (MHFU):** [MediaFire](https://www.mediafire.com/file/6z6dgks3kjc4u5g/%5BPSP_MHF1%5DAthena%27s_%2A.S.S-viciousShadow%27s_MHF1_Edition_v96.zip)
 - **Ветки оружия MHFU:** [mhfu.vallode.com/smithy](https://mhfu.vallode.com/smithy/)
+- -----------------------------------------------------------------------------------
 - **HD-текстуры MH4U:** [Dropbox](https://www.dropbox.com/scl/fi/azn0yh82si223p9lieam2/0004000000126300.7z?rlkey=yl5gcv8jsgdc70t4osqun8e74&st=6jyt7oew&e=1&dl=0)
+- -----------------------------------------------------------------------------------
 - **Save Manager MHGU:** [GBAtemp](https://gbatemp.net/threads/mhxx-mhgu-save-manager.668514/)
 - **Armor Set Builder MHGU:** [mhxx.wiki-db.com/sim](https://mhxx.wiki-db.com/sim/?hl=en)
 
