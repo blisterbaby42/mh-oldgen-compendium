@@ -8,11 +8,11 @@
 
 ## Быстрый поиск
 
-| Игра | Платформа | Эмулятор | Сложность | Гайд |
-|------|-----------|----------|-----------|------|
-| [Monster Hunter Freedom Unite](https://github.com/blisterbaby42/mhfu-complete-guide) | PSP | PPSSPP | 🟢 патчи/конфиг (опционально) | [→ТЫК](https://github.com/blisterbaby42/mhfu-complete-guide) |
-| [Monster Hunter 4 Ultimate](https://github.com/blisterbaby42/mh4u-guide) | 3DS | Citra\Azahar | 🔴 будет много твиков / 🚧 WIP | [→ТЫК](https://github.com/blisterbaby42/mh4u-guide) |
-| [Monster Hunter Generations Ultimate](https://github.com/blisterbaby42/mhgu-guide-pc) | Switch | Ryujinx\Eden(WIP) | 🟡 прошивка/ключи | [→ТЫК](https://github.com/blisterbaby42/mhgu-guide-pc) |
+| Игра | Платформа | Эмулятор | Сложность |
+|------|-----------|----------|-----------|
+| [Monster Hunter Freedom Unite](https://github.com/blisterbaby42/mhfu-complete-guide) | PSP | PPSSPP | 🟢 патчи/конфиг (опционально) |
+| [Monster Hunter 4 Ultimate](https://github.com/blisterbaby42/mh4u-guide) | 3DS | Citra\Azahar | 🔴 будет много твиков / 🚧 WIP |
+| [Monster Hunter Generations Ultimate](https://github.com/blisterbaby42/mhgu-guide-pc) | Switch | Ryujinx\Eden(WIP) | 🟡 прошивка/ключи |
 
 > 🟢 из коробки · 🟡 нужны патчи/настройки/ключи · 🔴 ручная возня
 
@@ -23,7 +23,7 @@
 <details>
 <summary><b>MHFU</b> · PPSSPP · 🟢 готовый ROM + патчи и конфиг</summary>
 
-**Гайд:** [blisterbaby42/mhfu-complete-guide](https://github.com/blisterbaby42/mhfu-complete-guide)
+[Гайд](https://github.com/blisterbaby42/mhfu-complete-guide)
 
 **Что внутри:**
 - Патченый ISO (Google Drive) или оригинальный JAP ROM + [патчер v1.4.0](https://github.com/FUComplete/Patch/releases/tag/v1.4.0) для создания патченного рома и `CONFIG.BIN`
@@ -41,7 +41,7 @@
 <details>
 <summary><b>MH4U</b> · 3DS · 🚧 гайд в процессе</summary>
 
-**Гайд:** [blisterbaby42/mh4u-guide](https://github.com/blisterbaby42/mh4u-guide)
+[Гайд](https://github.com/blisterbaby42/mh4u-guide)
 
 **Что уже есть:**
 - Читы и патчи для производительности/графики: 60 FPS (переключение на 30 по удержанию R), ускорение/замедление игры, отключение FSAA и дизеринга
@@ -59,7 +59,7 @@
 <details>
 <summary><b>MHGU</b> · Ryujinx · 🟡 прошивка и ключи</summary>
 
-**Гайд:** [blisterbaby42/mhgu-guide-pc](https://github.com/blisterbaby42/mhgu-guide-pc)
+[Гайд](https://github.com/blisterbaby42/mhgu-guide-pc)
 
 **Что внутри (пошагово):**
 1. **Игра:** ROM + update 1.4.0 (торрент) или prepatched-версии
