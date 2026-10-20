@@ -2,7 +2,7 @@
 
 [🇷🇺 Русский](README.md) · **🇬🇧 English**
 
-# 🏹 Monster Hunter: Emulation Compendium
+# Monster Hunter: Emulation Compendium
 
 A single entry point for emulating entries in the series. Pick a game → expand the block → open the full guide repository.
 
@@ -18,7 +18,7 @@ A single entry point for emulating entries in the series. Pick a game → expand
 
 ---
 
-## 🎮 Monster Hunter Freedom Unite (PSP)
+## Monster Hunter Freedom Unite (PSP)
 
 <details>
 <summary><b>MHFU</b> · PPSSPP · 🟢 working .ISO + patches and config</summary>
@@ -36,7 +36,7 @@ A single entry point for emulating entries in the series. Pick a game → expand
 
 ---
 
-## 🎮 Monster Hunter 4 Ultimate (3DS)
+## Monster Hunter 4 Ultimate (3DS)
 
 <details>
 <summary><b>MH4U</b> · 3DS · 🚧 guide in progress</summary>
@@ -54,7 +54,7 @@ A single entry point for emulating entries in the series. Pick a game → expand
 
 ---
 
-## 🎮 Monster Hunter Generations Ultimate (Switch)
+## Monster Hunter Generations Ultimate (Switch)
 
 <details>
 <summary><b>MHGU</b> · Ryujinx · 🟡 firmware and keys</summary>
@@ -78,7 +78,7 @@ A single entry point for emulating entries in the series. Pick a game → expand
 
 ---
 
-## 🧰 Common Materials and Tools
+## Common Materials and Tools
 
 - **MHFU patcher:** [FUComplete/Patch](https://github.com/FUComplete/Patch/releases/tag/v1.4.0)
 - **MHFU config editor (browser):** [fucomplete.github.io](https://fucomplete.github.io/assets/config_editor.html)
