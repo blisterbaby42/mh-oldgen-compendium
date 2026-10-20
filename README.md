@@ -11,7 +11,7 @@
 |------|-----------|----------|-----------|------|
 | [Monster Hunter Freedom Unite](https://github.com/blisterbaby42/mhfu-complete-guide) | PSP | PPSSPP | 🟢 патчи/конфиг (опционально) | [→ТЫК](https://github.com/blisterbaby42/mhfu-complete-guide) |
 | [Monster Hunter 4 Ultimate](https://github.com/blisterbaby42/mh4u-guide) | 3DS | Citra\Azahar | 🔴 будет много твиков / 🚧 in progress | [→ТЫК](https://github.com/blisterbaby42/mh4u-guide) |
-| [Monster Hunter Generations Ultimate](https://github.com/blisterbaby42/mh4u-guide) | Switch | Ryujinx | 🟡 прошивка/ключи | [→ТЫК](https://github.com/blisterbaby42/mh4u-guide) |
+| [Monster Hunter Generations Ultimate](https://github.com/blisterbaby42/mhgu-guide-pc) | Switch | Ryujinx | 🟡 прошивка/ключи | [→ТЫК]([https://github.com/blisterbaby42/mhgu-guide](https://github.com/blisterbaby42/mhgu-guide-pc)) |
 
 > 🟢 из коробки · 🟡 нужны патчи/настройки/ключи · 🔴 ручная возня
 
