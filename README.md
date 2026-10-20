@@ -11,7 +11,7 @@
 | Игра | Платформа | Эмулятор | Сложность |
 |------|-----------|----------|-----------|
 | [Monster Hunter Freedom Unite](https://github.com/blisterbaby42/mhfu-complete-guide) | PSP | PPSSPP | 🟢 патчи/конфиг (опционально) |
-| Monster Hunter 3 Ultimate | 3DS | Citra\Azahar | ⚫ пусто (не требует возни совсем, будут только моды) |
+| Monster Hunter Portable 3rd | PSP | PPSSPP | ⚫ пусто (не требует возни совсем, будут только моды) |
 | Monster Hunter 3 Ultimate | 3DS | Citra\Azahar | ⚫ пусто |
 | [Monster Hunter 4 Ultimate](https://github.com/blisterbaby42/mh4u-guide) | 3DS | Citra\Azahar | 🔴 будет много твиков / 🚧 WIP |
 | [Monster Hunter Generations Ultimate](https://github.com/blisterbaby42/mhgu-guide-pc) | Switch | Ryujinx\Eden(WIP) | 🟡 прошивка/ключи |
