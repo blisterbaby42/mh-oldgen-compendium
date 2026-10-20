@@ -96,6 +96,6 @@
 |------|--------|
 | MHFU (PSP) | ✅ готов (с патчами и модами) |
 | MH4U (3DS) | 🚧 in progress |
-| MHGU (Switch) | ✅ готов (пошаговая настройка Ryujinx) |
+| MHGU (Switch) | ✅ готов (пошаговая настройка Ryujinx, Eden позже) |
 
 > Нет нужной части серии? Открой [issue](https://github.com/blisterbaby42/mhfu-complete-guide/issues) в любом из репозиториев — добавлю в очередь.
