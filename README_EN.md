@@ -1,3 +1,5 @@
+![Alt text](bgmain2.png)
+
 # 🏹 Monster Hunter: Master Emulation Guide
 
 A single entry point for emulating entries in the series. Pick a game → expand the block → open the full guide repository.
