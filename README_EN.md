@@ -2,7 +2,7 @@
 
 [🇷🇺 Русский](README.md) · **🇬🇧 English**
 
-# 🏹 Monster Hunter: Master Emulation Guide
+# 🏹 Monster Hunter: Emulation Compendium
 
 A single entry point for emulating entries in the series. Pick a game → expand the block → open the full guide repository.
 
