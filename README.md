@@ -20,7 +20,7 @@
 ## 🎮 Monster Hunter Freedom Unite (PSP)
 
 <details>
-<summary><b>MHFU</b> · PPSSPP · 🟡 патчи и конфиг</summary>
+<summary><b>MHFU</b> · PPSSPP · 🟢 готовый ROM + патчи и конфиг</summary>
 
 **Гайд:** [blisterbaby42/mhfu-complete-guide](https://github.com/blisterbaby42/mhfu-complete-guide)
 
