@@ -78,7 +78,7 @@
 
 ---
 
-## 🧰 Общие материалы и инструменты
+## 🔧 Общие материалы и инструменты
 
 - **Патчер MHFU:** [FUComplete/Patch](https://github.com/FUComplete/Patch/releases/tag/v1.4.0)
 - **Редактор конфига MHFU (браузер):** [fucomplete.github.io](https://fucomplete.github.io/assets/config_editor.html)
