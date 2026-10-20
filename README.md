@@ -10,7 +10,7 @@
 | Игра | Платформа | Эмулятор | Сложность | Гайд |
 |------|-----------|----------|-----------|------|
 | Monster Hunter Freedom Unite | PSP | PPSSPP | 🟢 патчи/конфиг (опционально) | [→ТЫК](https://github.com/blisterbaby42/mhfu-complete-guide) |
-| Monster Hunter 4 Ultimate | 3DS | — | 🚧 in progress | [→ТЫК](https://github.com/blisterbaby42/mh4u-guide) |
+| Monster Hunter 4 Ultimate | 3DS | Citra\Azahar | 🚧 in progress | [→ТЫК](https://github.com/blisterbaby42/mh4u-guide) |
 | Monster Hunter Generations Ultimate | Switch | Ryujinx | 🟡 прошивка/ключи | [→ТЫК](https://github.com/blisterbaby42/mhgu-guide-pc) |
 
 🟢 из коробки · 🟡 нужны патчи/настройки/ключи · 🔴 ручная возня
