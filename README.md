@@ -1,4 +1,4 @@
-![Alt text](bgmain.jpg)
+![Alt text](bgmain2.png)
 
 
 # 🏹 Monster Hunter: мастер-гайд по эмуляции
