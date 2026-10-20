@@ -109,4 +109,4 @@
 
 > Нет нужной части серии? Открой [issue](https://github.com/blisterbaby42/mhfu-complete-guide/issues) в любом из репозиториев — добавлю в очередь.
 
-> Нет фикса \ чита \ коммон бага / крутой фичи о которой я не знаю - Открой [issue](https://github.com/blisterbaby42/mhfu-complete-guide/issues) в любом из репозиториев — добавлю.
+> Нет фикса \ чита \ коммон бага \ крутой фичи \ полезной ссылки о которой я не знаю - Открой [issue](https://github.com/blisterbaby42/mhfu-complete-guide/issues) в любом из репозиториев — добавлю.
