@@ -11,7 +11,7 @@ A single entry point for emulating entries in the series. Pick a game → expand
 | Game | Platform | Emulator | Difficulty | Guide |
 |------|----------|----------|------------|-------|
 | [Monster Hunter Freedom Unite](https://github.com/blisterbaby42/mhfu-complete-guide) | PSP | PPSSPP | 🟢 working ROM + patches/config (optional) | [→ repo](https://github.com/blisterbaby42/mhfu-complete-guide) |
-| [Monster Hunter 4 Ultimate](https://github.com/blisterbaby42/mh4u-guide) | 3DS | — | 🚧 in progress | [→ repo](https://github.com/blisterbaby42/mh4u-guide) |
+| [Monster Hunter 4 Ultimate](https://github.com/blisterbaby42/mh4u-guide) | 3DS | Citra\Azahar | 🔴lot of setup for MP \ 🚧 in progress | [→ repo](https://github.com/blisterbaby42/mh4u-guide) |
 | [Monster Hunter Generations Ultimate](https://github.com/blisterbaby42/mhgu-guide-pc) | Switch | Ryujinx | 🟡 firmware/keys | [→ repo](https://github.com/blisterbaby42/mhgu-guide-pc) |
 
 🟢 works out of the box · 🟡 patches/settings/keys needed · 🔴 manual tinkering
