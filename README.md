@@ -1,10 +1,10 @@
 ![Alt text](bgmain2.png)
 
-**🇷🇺 Русский** · [🇬🇧 English](README_EN.md)
+<h1 align="center">**🇷🇺 Русский** · [🇬🇧 English](README_EN.md)</h1>
 
-# Monster Hunter Emulation Compendium
+# <h1 align="center"> Monster Hunter Emulation Compendium </h1>
 
-Единая точка входа по частям серии на эмуляторах. Выбери игру → разверни блок → перейди в репозиторий с полным гайдом.
+<h1 align="center"> Единая точка входа по частям серии на эмуляторах. Выбери игру → разверни блок → перейди в репозиторий с полным гайдом. </h1>
 
 ## 📋 Быстрый поиск
 
