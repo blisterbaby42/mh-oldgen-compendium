@@ -21,7 +21,7 @@ A single entry point for emulating entries in the series. Pick a game → expand
 ## 🎮 Monster Hunter Freedom Unite (PSP)
 
 <details>
-<summary><b>MHFU</b> · PPSSPP · 🟡 patches and config</summary>
+<summary><b>MHFU</b> · PPSSPP · 🟢 working .ISO + patches and config</summary>
 
 **Guide:** [blisterbaby42/mhfu-complete-guide](https://github.com/blisterbaby42/mhfu-complete-guide)
 
