@@ -2,7 +2,7 @@
 
 **🇷🇺 Русский** · [🇬🇧 English](README_EN.md)
 
-# 🏹 Monster Hunter: мастер-гайд по эмуляции
+# Monster Hunter Emulation Compendium
 
 Единая точка входа по частям серии на эмуляторах. Выбери игру → разверни блок → перейди в репозиторий с полным гайдом.
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🎮 Monster Hunter Freedom Unite (PSP)
+## Monster Hunter Freedom Unite (PSP)
 
 <details>
 <summary><b>MHFU</b> · PPSSPP · 🟢 готовый ROM + патчи и конфиг</summary>
@@ -36,7 +36,7 @@
 
 ---
 
-## 🎮 Monster Hunter 4 Ultimate (3DS)
+## Monster Hunter 4 Ultimate (3DS)
 
 <details>
 <summary><b>MH4U</b> · 3DS · 🚧 гайд в процессе</summary>
