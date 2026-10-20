@@ -1,5 +1,6 @@
 ![Alt text](bgmain2.png)
 
+**🇷🇺 Русский** · [🇬🇧 English](README_EN.md)
 
 # 🏹 Monster Hunter: мастер-гайд по эмуляции
 
