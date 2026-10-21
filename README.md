@@ -25,7 +25,7 @@
 <details>
 <summary><b>[Spoiler] MHFU</b> · PPSSPP · 🟢 готовый ROM + патчи и конфиг</summary>
 
-[Гайд](https://github.com/blisterbaby42/mhfu-complete-guide)
+[>> Гайд <<](https://github.com/blisterbaby42/mhfu-complete-guide)
 
 **Что внутри:**
 - Патченый ISO (Google Drive) или оригинальный JAP ROM + [патчер v1.4.0](https://github.com/FUComplete/Patch/releases/tag/v1.4.0) для создания патченного рома и `CONFIG.BIN`
@@ -43,7 +43,7 @@
 <details>
 <summary><b>[Spoiler] MH4U</b> · 3DS · 🚧 в процессе</summary>
 
-[Гайд](https://github.com/blisterbaby42/mh4u-guide)
+[>> Гайд <<](https://github.com/blisterbaby42/mh4u-guide)
 
 **Что уже есть:**
 - Читы-патчи для производительности/графики: 60 FPS (переключение на 30 по удержанию R), ускорение/замедление игры, отключение FSAA и дизеринга
@@ -65,7 +65,7 @@
 <details>
 <summary><b>[Spoiler] MHGU</b> · Ryujinx · 🟡 прошивка и ключи</summary>
 
-[Гайд](https://github.com/blisterbaby42/mhgu-guide-pc)
+[>> Гайд <<](https://github.com/blisterbaby42/mhgu-guide-pc)
 
 **Что внутри (пошагово):**
 1. **Игра:** ROM + update 1.4.0 (торрент) или prepatched-версии
