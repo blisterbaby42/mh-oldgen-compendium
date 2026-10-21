@@ -25,6 +25,7 @@
 <details>
 <summary><b>[Spoiler] MHFU</b> · PPSSPP · 🟢 готовый ROM + патчи и конфиг</summary>
 
+
 [>> Гайд <<](https://github.com/blisterbaby42/mhfu-complete-guide)
 
 **Что внутри:**
@@ -42,6 +43,7 @@
 
 <details>
 <summary><b>[Spoiler] MH4U</b> · 3DS · 🚧 в процессе</summary>
+
 
 [>> Гайд <<](https://github.com/blisterbaby42/mh4u-guide)
 
@@ -64,6 +66,7 @@
 
 <details>
 <summary><b>[Spoiler] MHGU</b> · Ryujinx · 🟡 прошивка и ключи</summary>
+
 
 [>> Гайд <<](https://github.com/blisterbaby42/mhgu-guide-pc)
 
