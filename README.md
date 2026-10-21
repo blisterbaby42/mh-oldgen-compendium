@@ -23,7 +23,7 @@
 ### Monster Hunter Freedom Unite (PSP)
 
 <details>
-<summary><b>MHFU</b> · PPSSPP · 🟢 готовый ROM + патчи и конфиг</summary>
+<summary><b>[Spoiler] MHFU</b> · PPSSPP · 🟢 готовый ROM + патчи и конфиг</summary>
 
 [Гайд](https://github.com/blisterbaby42/mhfu-complete-guide)
 
@@ -41,7 +41,7 @@
 ### Monster Hunter 4 Ultimate (3DS)
 
 <details>
-<summary><b>MH4U</b> · 3DS · 🚧 в процессе</summary>
+<summary><b>[Spoiler] MH4U</b> · 3DS · 🚧 в процессе</summary>
 
 [Гайд](https://github.com/blisterbaby42/mh4u-guide)
 
@@ -63,7 +63,7 @@
 ### Monster Hunter Generations Ultimate (Switch)
 
 <details>
-<summary><b>MHGU</b> · Ryujinx · 🟡 прошивка и ключи</summary>
+<summary><b>[Spoiler] MHGU</b> · Ryujinx · 🟡 прошивка и ключи</summary>
 
 [Гайд](https://github.com/blisterbaby42/mhgu-guide-pc)
 
